@@ -1,38 +1,31 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D7B9FF,50:F5B5D8,100:FFF6EC&height=220&section=header&text=Hola,%20soy%20Lola%20✨&fontSize=45&fontColor=4B2E5A&animation=fadeIn&fontAlignY=38&desc=Programming%20Student%20%7C%20Backend%20%26%20SQL%20Server%20%7C%20UI%20con%20onda&descAlignY=55&descSize=18" width="100%"/>
+# ⋆｡‧˚ʚ Hola, soy Lola ɞ˚‧｡⋆
 
-<!-- Typing SVG -->
-<a href="https://github.com/lolaaaR">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=B78CD9&center=true&vCenter=true&width=600&lines=Estudiante+de+Programaci%C3%B3n+%40+UTN+FRGP;C%23+%2B+ASP.NET+%2B+SQL+Server;Dise%C3%B1o+pastel+%2B+glassmorphism;Roblox+dev+en+ratos+libres+%F0%9F%A7%9A" />
-</a>
+### `Estudiante de Programación` · `C# / ASP.NET` · `SQL Server` · `UI con onda`
+
+<img src="https://img.shields.io/badge/-Backend%20Dev-D7B9FF?style=for-the-badge&labelColor=4B2E5A" />
+<img src="https://img.shields.io/badge/-SQL%20Server-F5B5D8?style=for-the-badge&labelColor=4B2E5A" />
+<img src="https://img.shields.io/badge/-UI%20%2F%20Pastel%20Design-FFF6EC?style=for-the-badge&labelColor=4B2E5A" />
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+</p>
+
+<br>
 
 ### 🌸 Sobre mí
 
 Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP.NET** y **SQL Server**, con un ojo puesto siempre en que las cosas también se vean lindas. Me gusta meter paletas pastel (violeta, rosa, crema) en todo lo que hago, desde dashboards hasta tiendas online.
 
 - 🛠️ Actualmente armando sistemas backend a medida y tiendas e-commerce
-- 🎮 Desarrollando un juego en Roblox (Lua) con temática de hadas
 - 🎨 Explorando diseño de marca con **kivo**, mi proyecto de templates en Canva
 - 💜 Fan del glassmorphism y las interfaces suaves
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/lolaaaR/lolaaaR/output/snake.svg" width="100%" alt="snake animation" />
-
-</td>
-</tr>
-</table>
+- 📚 Estudiando en UTN FRGP
 
 <br>
 
@@ -105,11 +98,11 @@ Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP
 <td width="50%" valign="top">
 <div align="center">
 
-**🧚 Fairy Catch**
+**🏘️ TempStay**
 <br>
-<sub>Juego de Roblox en Lua — spawneo de hadas, captura, quests y sistema de compañeros</sub>
+<sub>Plataforma de alquileres con app de escritorio en WinForms y backend completo en SQL Server</sub>
 <br><br>
-`Lua` `Roblox Studio` `Game Design`
+`C#` `WinForms` `SQL Server`
 
 </div>
 </td>
@@ -122,12 +115,18 @@ Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP
 
 ### 💌 Conectemos
 
-<a href="https://www.instagram.com/kivo" target="_blank"><img src="https://img.shields.io/badge/Instagram-F5B5D8?style=for-the-badge&logo=instagram&logoColor=4B2E5A" /></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D7B9FF?style=for-the-badge&logo=gmail&logoColor=4B2E5A" /></a>
+<a href="https://www.instagram.com/lola.rdgz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-F5B5D8?style=for-the-badge&logo=instagram&logoColor=4B2E5A" /></a>
+<a href="mailto:lolarodriguezf1@gmail.com"><img src="https://img.shields.io/badge/Email-D7B9FF?style=for-the-badge&logo=gmail&logoColor=4B2E5A" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-FFF6EC?style=for-the-badge&logo=googlechrome&logoColor=4B2E5A" /></a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF6EC,50:F5B5D8,100:D7B9FF&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br><br>
+<sub>Hecho con 💜</sub>
+
+</div>
