@@ -117,7 +117,7 @@ Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP
 
 <a href="https://www.instagram.com/lola.rdgz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-F5B5D8?style=for-the-badge&logo=instagram&logoColor=4B2E5A" /></a>
 <a href="mailto:lolarodriguezf1@gmail.com"><img src="https://img.shields.io/badge/Email-D7B9FF?style=for-the-badge&logo=gmail&logoColor=4B2E5A" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FFF6EC?style=for-the-badge&logo=googlechrome&logoColor=4B2E5A" /></a>
+<a href="https://lolaaar.github.io/lolaaaaR/"><img src="https://img.shields.io/badge/Portfolio-FFF6EC?style=for-the-badge&logo=googlechrome&logoColor=4B2E5A" /></a>
 
 </div>
 
