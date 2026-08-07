@@ -22,9 +22,9 @@
 
 Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP.NET** y **SQL Server**, con un ojo puesto siempre en que las cosas también se vean lindas. Me gusta meter paletas pastel (violeta, rosa, crema) en todo lo que hago, desde dashboards hasta tiendas online.
 
-- 🛠️ Actualmente armando sistemas backend a medida y tiendas e-commerce
-- 💜 Fan del glassmorphism y las interfaces suaves
-- 📚 Estudiando en UTN FRGP
+-  Actualmente armando sistemas backend a medida y tiendas e-commerce.
+-  Me gusta que cada diseño tenga su propia personalidad, nada de plantillas repetidas.
+-  Estudiando en UTN FRGP.
 
 <br>
 
@@ -40,11 +40,10 @@ Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP
 
 <div align="center">
 
-### 📊 Stats
+### 💕 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=lolaaaR&show_icons=true&theme=transparent&hide_border=true&title_color=B78CD9&icon_color=F5B5D8&text_color=4B2E5A&ring_color=D7B9FF" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolaaaR&layout=compact&theme=transparent&hide_border=true&title_color=B78CD9&text_color=4B2E5A&langs_count=8" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lolaaaR&theme=transparent&hide_border=true&ring=D7B9FF&fire=F5B5D8&currStreakLabel=B78CD9&currStreakNum=4B2E5A&sideLabels=4B2E5A&sideNums=4B2E5A&dates=9A8CA5" height="165"/>
 
 </div>
@@ -86,7 +85,7 @@ Soy estudiante de programación en Argentina, enfocada en **backend con C# / ASP
 <td colspan="2" align="center">
 <div align="center">
 
-**🧶 Glorieta Tejidos**
+**🧶 Glorieta Tejidos (EN PROCESO)** 
 <br>
 <sub>Tienda online en Tiendanube con CSS custom sobre el theme Morelia, paleta roja/mostaza/crema</sub>
 <br><br>
