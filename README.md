@@ -2,7 +2,7 @@
 
 # ⋆｡‧˚ʚ Hola, soy Lola ɞ˚‧｡⋆
 
-### `Estudiante de Programación` · `C# / ASP.NET` · `SQL Server` · `UI con onda`
+### `Estudiante de Programación` · `C# / ASP.NET` · `SQL Server` · `HTML & CSS`
 
 <img src="https://img.shields.io/badge/-Backend%20Dev-D7B9FF?style=for-the-badge&labelColor=4B2E5A" />
 <img src="https://img.shields.io/badge/-SQL%20Server-F5B5D8?style=for-the-badge&labelColor=4B2E5A" />
